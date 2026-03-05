@@ -326,4 +326,5 @@ $items = $pdo->query("SELECT * FROM scrapbook_items ORDER BY sort_order ASC, id 
     </div>
 </body>
 
+
 </html>
