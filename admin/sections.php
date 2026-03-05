@@ -380,4 +380,5 @@ $scrapbook = get_section($pdo, 'scrapbook');
     </div>
 </body>
 
+
 </html>
