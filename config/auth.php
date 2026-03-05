@@ -13,4 +13,5 @@ function require_admin(): void
         header("Location: /birthday/admin/login.php");
         exit;
     }
+
 }
